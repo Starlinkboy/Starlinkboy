@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center"><a href="https://starlinkboy.cf">Starlinkboy</a></h1>
 
-<!--
-**Starlinkboy/Starlinkboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">A JavaScript, HTML and Python developer.</h3> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p href="https://discord.gg/6zzSPbEFYt" align="center">
+    <img alt="My Discord Profile" src=https://lanyard.cnrad.dev/api/507239542127067136/>
+</p>
+<h3 align="center">
+- 🔭 I’m currently working on Carnage<br>
+- 🌱 I’m currently learning Python <br>
+- 😄 Pronouns: He/Him
+</h3>
+<p href="https://github.com/starlinkboy" align="center">
+    <img alt="My Github" src=https://github-readme-stats.vercel.app/api?username=Starlinkboy&show_icons=true&theme=tokyonight>
+</p>
+<p href="https://github.com/starlinkboy" align="center">
+    <img alt="Languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Starlinkboy>
+</p>
+

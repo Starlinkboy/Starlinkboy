@@ -17,4 +17,12 @@
 <p href="https://github.com/starlinkboy" align="center">
     <img alt="Languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Starlinkboy>
 </p>
+<h2 align="center">
+    Contact Me:
+</h2>
+<h3 align="center">
+- Discord: Starlinkboy#0159
+    <br>
+- Mail: starlinkboy@starlinkboy.cf
 
+</h3>

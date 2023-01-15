@@ -14,10 +14,10 @@
 - 😄 Pronouns: He/Him
 </h3>
 <p href="https://github.com/starlinkboy" align="center">
-    <img alt="My Github" src=https://github-readme-stats.vercel.app/api?username=Starlinkboy&show_icons=true&theme=tokyonight>
+    <img alt="My Github" src=https://github-readme-stats-ruby-one.vercel.app/api?username=Starlinkboy&show_icons=true&theme=tokyonight>
 </p>
 <p href="https://github.com/starlinkboy" align="center">
-    <img alt="Languages" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Starlinkboy>
+    <img alt="Languages" src=https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Starlinkboy>
 </p>
 <h2 align="center">
     Contact Me:
